@@ -12,3 +12,4 @@ Feature: Add New Payee to Zero Bank
     Examples:
       | name  | address | accountNumber | details          |
       | Alex  | Moscow  | 963485        | electricity bill |
+      | Alex  | Moscow  |               | electricity bill |
