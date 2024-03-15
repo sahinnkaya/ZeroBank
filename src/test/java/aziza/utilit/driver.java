@@ -19,6 +19,8 @@ public class driver {
             driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(10));
             driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 
+
+
         }
         return driver;
     }

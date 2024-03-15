@@ -72,6 +72,8 @@ public class open {
 
     @And("I enter valid login and user")
     public void iEnterValidLoginAndUser() {
+
+
 //
 //        usernameField.sendKeys("username");
 //        passwordField.sendKeys("password");
